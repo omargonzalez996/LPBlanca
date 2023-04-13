@@ -1,6 +1,6 @@
 export const AppConfig = {
-  site_name: 'React landing page',
-  title: 'React landing page template 2021',
-  description: 'Production ready plug n play landing page!',
+  site_name: 'Fisio-Ro',
+  title: 'Fisioterapia RO',
+  description: 'SPA-FISIO-RO',
   locale: 'en',
 };
