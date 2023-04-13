@@ -40,7 +40,7 @@ const Pricing = () => {
           className={`flex justify-center items-center gap-x-3 h-16`}
         >
           <svg
-            className="fill-current text-border text-border"
+            className="fill-current text-border"
             xmlns="http://www.w3.org/2000/svg"
             width="32"
             height="32"
@@ -57,7 +57,7 @@ const Pricing = () => {
         </div>
         <div className={`flex justify-center items-center gap-x-3 h-16`}>
           <svg
-            className="fill-current text-border text-border"
+            className="fill-current text-border"
             xmlns="http://www.w3.org/2000/svg"
             width="32"
             height="32"
