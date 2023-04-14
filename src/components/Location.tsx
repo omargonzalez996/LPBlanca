@@ -33,10 +33,10 @@ const Pricing = () => {
         </p>
       </div>
       <Divider />
-      <div className={`flex justify-center gap-x-10 items-center h-20`}>
+      <div className={`flex justify-center gap-x-4 items-center h-20`}>
         <a className={`no-underline`} href="https://wa.me/524425927437">
           <div
-            className={`flex justify-center gap-x-3 border border-transparent bg-background transition-colors hover:bg-hoover rounded-md shadow-md p-2`}
+            className={`flex justify-center gap-x-2 border border-transparent bg-background transition-colors hover:bg-hoover rounded-md shadow-md p-1`}
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -52,7 +52,7 @@ const Pricing = () => {
         </a>
         <a href="https://wa.me/524661073049">
           <div
-            className={`flex justify-center gap-x-3 border border-transparent bg-background transition-colors hover:bg-hoover rounded-md shadow-md p-2`}
+            className={`flex justify-center gap-x-2 border border-transparent bg-background transition-colors hover:bg-hoover rounded-md shadow-md p-1`}
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
