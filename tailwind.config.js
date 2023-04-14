@@ -23,6 +23,7 @@ module.exports = {
         tertiary: "#ffc4ae",
         border: "#e38898",
         background: "#FFF5EE",
+        hoover: "#ebe1da",
       },
       animation: {
         vote: "vote 1s ease-in-out",

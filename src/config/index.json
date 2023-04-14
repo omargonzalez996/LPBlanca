@@ -5,60 +5,60 @@
   },
   "navigation": [
     {
-      "name": "NOSOTROS",
+      "name": "Nosotros",
       "href": "product"
     },
     {
-      "name": "SERVICIOS",
+      "name": "Servicios",
       "href": "features"
     },
     {
-      "name": "CONTACTO",
+      "name": "Contacto",
       "href": "contacto"
     }
   ],
   "mainHero": {
     "title": "Fisio - RO",
     "subtitle": "Fisioterapia y Rehabilitación",
-    "description": "¡Nuestro motivo eres TU!",
+    "description": "¡Nuestro motivo eres Tú!",
     "img": "/assets/images/background.png",
     "primaryAction": {
       "text": "Ubicación",
       "href": "contacto"
     },
     "secondaryAction": {
-      "text": "Contactanos",
-      "href": "mailto:blanca95.ft@gmail.com?subject=Contacto SPA"
+      "text": "Contáctanos",
+      "href": "mailto:blanca95.ft@gmail.com?subject=Fisioterapia"
     }
   },
   "product": {
     "title": "Fisioterapia.Ro",
     "items": [
       {
-        "title": "Quiénes somos?",
-        "description": "Somos una clínica de fisioterapia y rehabilitación de atención integral que se dedica a diagnosticar, prevenir y tratar múltiples dolencias por traumatismos, problemas musculares por enfermedades o lesiones y problemas de desarrollo,ofreciendo siempre servicios personalizados e individuales para una mejor atención",
+        "title": "¿Quiénes somos?",
+        "description": "Somos una clínica de fisioterapia y rehabilitación de atención integral que se dedica a diagnosticar, prevenir y tratar múltiples dolencias por traumatismos, problemas musculares por enfermedades o lesiones y problemas de desarrollo, ofreciendo siempre servicios personalizados e individuales para una mejor atención.",
         "img": "/assets/images/RO01.svg"
       },
       {
-        "title": "Cómo lo hacemos?",
-        "description": "Brindamos una valoración inicial para diagnosticar el problema, tratamos con servicios de agentes fisicos, y terapéuticos, así como terapia manual y de neurodesarrollo",
+        "title": "¿Cómo lo hacemos?",
+        "description": "Brindamos una valoración inicial para diagnosticar el problema, tratamos con servicios de agentes físicos, y terapéuticos, así como terapia manual y de neurodesarrollo.",
         "img": "/assets/images/RO02.svg"
       }
     ]
   },
   "features": {
-    "title": "NUESTRO MOTIVO ERES TÚ",
+    "title": "Nuestro motivo eres tú",
     "subtitle": "Servicios que ofrecemos",
     "description": "",
     "items": [
       {
-        "name": "Rehabilitación traumatologica y ortopedica",
+        "name": "Rehabilitación traumatológica y ortopédica",
         "description": "Lesiones musculares cómo contracturas, desgarros, tendinitis, etc.",
         "icon": "/assets/images/icono.svg"
       },
       {
         "name": "Lesiones traumáticas",
-        "description": " Fracturas, luxaciones, esguinces, etc.",
+        "description": "Fracturas, luxaciones, esguinces, etc.",
         "icon": "/assets/images/icono.svg"
       },
       {
@@ -67,13 +67,13 @@
         "icon": "/assets/images/icono.svg"
       },
       {
-        "name": "Rehabilitación post quirúrgica",
-        "description": "prótesis de cadera y rodilla. Cirugía de rodilla: de meniscos y ligamentos.",
+        "name": "Rehabilitación posquirúrgica",
+        "description": "Prótesis de cadera y rodilla. Cirugía de rodilla: de meniscos y ligamentos.",
         "icon": "/assets/images/icono.svg"
       },
       {
-        "name": "Rehabilitación geriátrica:",
-        "description": "Programa de prevención de caídas, Reeducación de equilibrio y marcha, Programa de reeducación de las actividades de la vida diaria, Estimulación de la propiocepcion corporal, Programa sensorial para adultos mayores",
+        "name": "Rehabilitación geriátrica",
+        "description": "Programa de prevención de caídas, Reeducación de equilibrio y marcha, Programa de reeducación de las actividades de la vida diaria, Estimulación de la propiocepción corporal, Programa sensorial para adultos mayores.",
         "icon": "/assets/images/icono.svg"
       },
       {
@@ -82,8 +82,8 @@
         "icon": "/assets/images/icono.svg"
       },
       {
-        "name": "Rehabilitación Neurologica",
-        "description": "Parkinson, Parálisis cerebral, Traumatismo cráneo-encefálicos, lesiones medulares, patologías degenerativas, esclerosis múltiple, entre otras.",
+        "name": "Rehabilitación Neurológica",
+        "description": "Párkinson, Parálisis cerebral, Traumatismo cráneo-encefálicos, lesiones medulares, patologías degenerativas, esclerosis múltiple, entre otras.",
         "icon": "/assets/images/icono.svg"
       },
       {

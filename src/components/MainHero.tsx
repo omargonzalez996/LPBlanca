@@ -27,7 +27,7 @@ const MainHero = () => {
               duration={1000}
               key={mainHero.primaryAction.text}
               to={mainHero.primaryAction.href}
-              className={`w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-background bg-primary hover:bg-border hover:text-background md:py-4 md:text-lg md:px-10`}
+              className={`w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md transition-colors text-background bg-primary hover:bg-border hover:text-background md:py-4 md:text-lg md:px-10`}
             >
               {mainHero.primaryAction.text}
             </Link>
@@ -35,7 +35,7 @@ const MainHero = () => {
           <div className="mt-3 sm:mt-0 sm:ml-3">
             <a
               href={mainHero.secondaryAction.href}
-              className={`w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md border-primary text-secondary bg-background hover:bg-border hover:text-background md:py-4 md:text-lg md:px-10`}
+              className={`w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md transition-colors border-primary text-secondary bg-background hover:bg-border hover:text-background md:py-4 md:text-lg md:px-10`}
             >
               {mainHero.secondaryAction.text}
             </a>
